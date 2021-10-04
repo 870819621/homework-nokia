@@ -1,0 +1,12 @@
+1.聚合初始化
+2.结构化绑定
+3.多重继承  菱形缺陷
+4.智能指针  shared_ptr (不正当使用) unique_ptr
+5.std::variant
+6.lambda
+7.函数模板  实例化问题
+8.可变参数模板 产品里代码
+9.模板元编程 模板函数重载
+10.std::optional 
+
+clean code 
