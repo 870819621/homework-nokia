@@ -1,0 +1,10 @@
+基于模板参数模板的思想，实现一个栈模板，具体要求
+    1.该栈模板同时支持基于std::vector和std::deque进行设计
+    2.该栈模板实现几个基本的功能函数：push,pop, size,即压栈，出栈和栈大小
+    3.写一个测试函数，满足下面功能：
+        a. vector和deque均可作为模板参数，例如
+        Stack<int,std::vector> vecStack;
+        Stack<int,std::deque> dequeStack;
+        b. 对于push,pop进行测试
+    
+
